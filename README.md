@@ -1,2 +1,3 @@
-
-![animesher com_serial-experiments-lain-aesthetic-pale-2127003](https://github.com/Neuro3es/Neuro3es/assets/92047852/fbe47a61-6994-45bf-b953-3d0c7bd58c53)
+<div id="header" align="center">
+  <img src="https://animesher.com/orig/2/212/2127/21270/animesher.com_serial-experiments-lain-aesthetic-pale-2127003.gif" width=100> 
+</div>
