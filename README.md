@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://animesher.com/orig/2/212/2127/21270/animesher.com_serial-experiments-lain-aesthetic-pale-2127003.gif" width="100"\> 
+  <img src="[https://animesher.com/orig/2/212/2127/21270/animesher.com_serial-experiments-lain-aesthetic-pale-2127003.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b034c281-be1d-480c-8b00-7c9c364b6585/daujjpn-c7f99c55-f66a-4233-9ea2-9f3e709cbf4a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwMzRjMjgxLWJlMWQtNDgwYy04YjAwLTdjOWMzNjRiNjU4NVwvZGF1ampwbi1jN2Y5OWM1NS1mNjZhLTQyMzMtOWVhMi05ZjNlNzA5Y2JmNGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nhUx4oqlAu63byZb4hB2ZxSuT6NnZjL5cZDKTJxCKSQ)" width="100"\> 
 </div>
